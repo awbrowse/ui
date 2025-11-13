@@ -11,7 +11,7 @@
     "piex": "git+https://android.googlesource.com/platform/external/piex"
   },
   "dependencies": {
-    "commander": "^2.19.0",
+    "commander": "^14.0.0",
     "http-server": "^14.1.1",
     "napa": "^3.0.0",
     "puppeteer": "^24.0.0"
